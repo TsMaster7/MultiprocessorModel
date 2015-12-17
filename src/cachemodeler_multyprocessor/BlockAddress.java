@@ -1,11 +1,8 @@
 package cachemodeler_multyprocessor;
 
 /**
- *
- * @author Taras
+ * структура для определения местоположения блока в кэше
  */
-
-//структура для определения местоположения блока в кэше
 public class BlockAddress
 {    
     public int moduleNumber;    //номер модуля, где может храниться блок
